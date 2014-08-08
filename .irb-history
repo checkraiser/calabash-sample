@@ -1,0 +1,17 @@
+start_test_server_in_background
+query("button")
+query("label")
+query("text")
+query("textview")
+query("TextView")
+query("")
+query("view")
+exit
+start_test_server_in_background
+query("button")
+query("label")
+query("viewtext")
+query("text")
+query("labelview")
+query("textview")
+quit
