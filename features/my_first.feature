@@ -7,3 +7,7 @@ Feature: Home feature
   	Given I press "LifeCycleTest"
   	Then I see "created"
 
+  Scenario: I can view single touch test
+    Given I press "SingleTouchTest"
+    And I click on screen 10 from the left and 50 from the top
+    Then I see "down"
